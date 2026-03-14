@@ -1,6 +1,6 @@
 [
   {
-    "id": "fw_1773490864485",
+    "id": "fw_1773491002976",
     "name": "oled",
     "version": "test",
     "device": "Lightmeter LM-1",
@@ -10,6 +10,6 @@
     "filename": "oled2.ino.merged.bin",
     "fileSize": 0,
     "binUrl": "https://raw.githubusercontent.com/mhhy2507/lumyter-firmware/main/Bin_file/oled2.ino.merged.bin",
-    "uploadedAt": "2026-03-14T12:21:04.485Z"
+    "uploadedAt": "2026-03-14T12:23:22.976Z"
   }
 ]
